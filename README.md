@@ -8,4 +8,4 @@ You can read the README for each year to understand why I went with specific lan
 
 ## Years
 
-- [2023](2023/README.md)
+- [2023](2023)
